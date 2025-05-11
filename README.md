@@ -1,6 +1,7 @@
-Nahid Azad
-About Me
+Hello there! I'm Nahid
+
 A passionate full-stack developer and machine learning enthusiast, I love creating impactful solutions with my own hands. My goal is to innovate at the intersection of AI and web development, building scalable systems that solve real-world challenges. I’m always eager to tackle new problems and contribute to the tech community.
+
 Tech Fluency
 
 Machine Learning & Deep Learning: TensorFlow, PyTorch, Scikit-Learn, OpenCV  
@@ -10,6 +11,7 @@ Machine Learning & Optimization: Python, FastAPI, Git, CI/CD
 Data Analysis & Visualization: Pandas, NumPy, DAX, Power BI, Tableau
 
 Projects
+
 Full Stack Service Provider Web App ---- HomeAssist
 
 Designed and developed a full-stack web application to connect users with trusted home service providers  
@@ -28,5 +30,8 @@ Developed a gesture-based game with MediaPipe & OpenCV for real-time hand tracki
 Designed mechanics with Python and NumPy, optimizing video processing for smooth scoring and interaction
 
 What I'm Currently Working On
+
 A Formula One Race Analytics and News Web App, that'll include race telemetry and other major details.
+
+
 Amansiz
